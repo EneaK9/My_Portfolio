@@ -2,15 +2,10 @@
 
 Steam is a starter template designed to help you land more interviews. Below we'll walk through exactly how you can customize this template to make it your own.
 
-Before we go too far, note that I've provided a video walkthrough of the entire project [HERE](https://youtu.be/hu-XLI3bFX8).
-
-You can also find a live version of this project deployed at [https://steam-portfolio-demo.vercel.app/](https://steam-portfolio-demo.vercel.app/).
 
 ## Let's get things running
 
 This template is built on top of [NextJS](https://nextjs.org/), a full stack development framework built on top of React.
-
-We won't take time here going over exactly how NextJS works on a deep level (to be fair, this project doesn't use Next at a deep level), but if you're interested in learning, their docs are [here](https://nextjs.org/docs/getting-started).
 
 At the root of your project, you'll see a `package.json` file defining our dependencies.
 
