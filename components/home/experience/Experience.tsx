@@ -16,7 +16,7 @@ const experience = [
   {
   title: "Funnels-App",
   position: "Front-End Developer",
-  time: "2023 - Present",
+  time: "2023 - 2024",
   location: "Albania",
   description: "As a Front-End Developer, I play a key role in designing and developing the website for our innovative platform. Funnels-App is a comprehensive sales funnel management tool that helps businesses streamline their sales processes and maximize conversions. My responsibilities include implementing user interface designs, optimizing website performance, and ensuring seamless user experiences across various devices and browsers.",
   tech: [
