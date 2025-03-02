@@ -13,11 +13,11 @@ export const Hero = () => {
           </h1>
         </Reveal>
         <Reveal>
-          <h2 className={styles.subTitle}>Junior Software Engineer</h2>
+          <h2 className={styles.subTitle}>Software Developer</h2>
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            With 1 year of hands-on experience in software engineer, I&apos;ve
+            With 1 year of hands-on experience in Software Development, I&apos;ve
             honed my skills in crafting robust and scalable solutions. From
             backend development with languages like Python and Java to frontend
             technologies like React and Javascript, I&apos;m adept at navigating the full

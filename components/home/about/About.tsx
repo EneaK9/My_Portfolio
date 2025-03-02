@@ -13,7 +13,7 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey! I&apos;m Enea, a budding software engineer with a passion for
+              Hey! I&apos;m Enea, a budding software developer with a passion for
               crafting code. Originally hailing from Tirana, Albania, I&apos;m
               diving deep into the world of software development. I have a knack
               for backend technologies, especially diving into the intricacies
@@ -23,7 +23,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              Currently, I&apos;m honing my skills as a junior software engineer
+              Currently, I&apos;m honing my skills as a software developer
               at a dynamic startup, where I&apos;m getting hands-on experience
               with cutting-edge technologies and contributing to exciting
               projects.

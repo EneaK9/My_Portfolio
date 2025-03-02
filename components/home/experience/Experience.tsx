@@ -14,7 +14,7 @@ export const Experience = () => {
 
 const experience = [
   {
-  title: "Funnels-App",
+  title: "Funnels-App (Freelancer)",
   position: "Front-End Developer",
   time: "2023 - 2024",
   location: "Albania",
